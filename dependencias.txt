@@ -1,0 +1,1 @@
+Para instalar as dependências no local tem que ir no terminal e digitar 'npm i'
